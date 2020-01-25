@@ -89,7 +89,7 @@ void main()
  "Pixel 3",
  "Lenovo K9"
  };
- printf("Please Enter Your Name\n");
+ printf("Please Enter Your good Name\n");
  gets(str);
  printf("Hello %s, Welcome to our Online Shopping.\n",str);
  do{
